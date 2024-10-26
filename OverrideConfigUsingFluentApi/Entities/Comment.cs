@@ -1,4 +1,4 @@
-﻿namespace OverrideConfigUsingFuentApi.Entities
+﻿namespace OverrideConfigUsingFluentApi.Entities
 {
 
 

@@ -1,6 +1,6 @@
-﻿using OverrideConfigUsingFuentApi.Data;
+﻿using OverrideConfigUsingFluentApi.Data;
 
-namespace OverrideConfigUsingFuentApi
+namespace OverrideConfigUsingFluentApi
 {
     internal class Program
     {

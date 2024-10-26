@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using OverrideConfigUsingFuentApi.Entities;
+using OverrideConfigUsingFluentApi.Entities;
 
-namespace OverrideConfigUsingFuentApi.Data
+namespace OverrideConfigUsingFluentApi.Data
 {
     internal class AppDbContext : DbContext
     {
